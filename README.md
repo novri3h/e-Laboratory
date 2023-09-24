@@ -3,7 +3,7 @@
 <div align="justify">Aplikasi e-Laboratory adalah sebuah perangkat lunak atau platform digital yang digunakan dalam konteks laboratorium untuk membantu dalam manajemen, pelacakan, dan analisis data eksperimen, serta untuk meningkatkan efisiensi dan produktivitas dalam lingkungan laboratorium.</div>
 <br>
 
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif.studio)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/e-Laboratory/graphs/commit-activity)
 
